@@ -2,7 +2,7 @@
 
 This is the official code for "Uncertainty-Aware Meta-Learning in Multimodal Task Distributions", by César Almecija, Apoorva Sharma and Navid Azizan.
 
-[[Arxiv (link pending)](https://github.com/azizanlab/unlimtd)] [[OpenReview (link pending)](https://github.com/azizanlab/unlimtd)]
+[[Arxiv](https://arxiv.org/abs/2210.01881)]
 
 ## Dependencies, datasets and trained models
 
